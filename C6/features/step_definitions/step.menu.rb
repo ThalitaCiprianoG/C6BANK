@@ -1,5 +1,5 @@
 Dado('que eu acesse o site') do
-    visit 'https://www.c6bank.com.br'
+    visit '/'
 end
   
 Quando('selecionar a {string} desejada') do |opcao|
